@@ -39,7 +39,7 @@ public class LoanController {
 
         HttpResponse response = new Http().send(request);
  
-        // Parse the JSON response
+        git Parse the JSON response
 
         if (response.getStatusCode() == 200) {
 
