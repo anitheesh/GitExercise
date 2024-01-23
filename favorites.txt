@@ -12,7 +12,7 @@ public class LoanController {
 
         public String dti_bottom;
 
-        public String occupancy_status;
+        //cdpublic String occupancy_status;
 
         public String purpose;
 
