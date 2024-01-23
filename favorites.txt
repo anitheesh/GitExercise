@@ -2,3 +2,6 @@ Infinity War,
 Leo,
 Jailer
 Avenger
+Jailer,
+Avenger,
+Jawan
